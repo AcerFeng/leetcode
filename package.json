@@ -5,6 +5,9 @@
   "repository": "https://github.com/AcerFeng/leetcode.git",
   "author": "Leon <qinlanfeng@foxmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^25.1.0"
   }
